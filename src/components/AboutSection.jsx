@@ -24,7 +24,7 @@ export const AboutSection = () => {
                                 Get in touch
                             </a>
 
-                            <a className="px-4 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300">
+                            <a className="px-4 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300" href="https://docs.google.com/document/d/1oSrH_KtOBDjYeXB-xD1LoObTwpfHnctl/edit?usp=drive_link&ouid=100147690659691428709&rtpof=true&sd=true">
                             {""}
                             Download CV
                             </a>
